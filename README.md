@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Software Reverse Engineering and Python Programming.
 - 🌱 I’m currently learning JavaScript, Algorithms and DevOp
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me github.com/praiseolotu
+- 📫 How to reach me <a href = "github.com/praiseolotu">Github</a>
 
 <!---
 praiseolotu/praiseolotu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
