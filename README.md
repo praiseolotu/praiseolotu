@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praiseolotu
 - 👀 I’m interested in Web Development, Software Reverse Engineering and Python Programming.
-- 🌱 I’m currently learning JavaScript, Algorithms and DevOp
+- 🌱 I’m currently learning advanced Algorithms and Data Structure.
 - 💞️ I’m looking to collaborate on github.
 - 📫 How to reach me <a href = "github.com/praiseolotu">Github</a>
 
