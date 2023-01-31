@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Software Reverse Engineering and Data Structures and Algorithms.
 - 🌱 I’m currently learning advanced Algorithms and Data Structure.
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me <a href = "olioxxayo@gmail.com"<a>Gmail</a>
+- 📫 How to reach me <a href = "olioxxayo@gmail.com"</a><a>Gmail</a>
 
 <!---
 praiseolotu/praiseolotu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
